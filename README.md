@@ -8,7 +8,8 @@
 
 That is, classifying tweets according to the sentiment expressed in them: extremely positive, positive, extremely negative, negative  or neutral.
 
-![68747470733a2f2f6469636876757175616e6763616f2e766e2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f736f6369616c2d6d656469612d6d61726b6574696e672d312e6a7067](https://user-images.githubusercontent.com/73479133/202290860-435d78a1-bdca-413a-873f-edfb7d0d3089.jpeg)
+![1_97iJ_XwezR6XD_1WY6VNng](https://user-images.githubusercontent.com/73479133/202843742-af51edcb-b460-48b2-b1e7-3d13894804b9.png)
+
 
 <a href="https://www.freeiconspng.com/img/6071" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/summary-png-icon-1.png" width="70" alt="Free Files Summary" /></a>
 
