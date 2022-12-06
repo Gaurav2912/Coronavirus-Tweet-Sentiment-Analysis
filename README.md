@@ -1,5 +1,5 @@
 
-# Cronavirus-Tweet-Sentiment-Analysis (ML classification NLP Project)
+# Coronavirus-Tweet-Sentiment-Analysis (ML classification NLP Project)
 
 **Capstone project of Natural language Processing** 
 
